@@ -5,7 +5,7 @@ Video demonstration: [YouTube][youtube_winter]
 
 Music: Scythe of Luna × Yakui The Maid - Rainmeter (Feat. Macne Nana) [Bandcamp][luna_band] | [SoundCloud][luna_sc] | [VK][luna_vk]
 
-[Download][music_link] music and add to `Winter/Source`folder.
+[Download][music_link] music and add to `Winter`folder.
 
 ![preview][preview_img]
 
